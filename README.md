@@ -1,2 +1,2 @@
 # gitExeam
-git_pr
+git_practice
